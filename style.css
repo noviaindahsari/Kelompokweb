@@ -33,4 +33,11 @@ a{
 .hero-content h3{
 	font-weight: 600;
 }
-
+footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height:100px;
+	background-color: #F2DD8C;
+	padding-top: 30px;
+}
